@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-print()
 <!---
 print253657/print253657 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-1+2
+以上不做修改！！！
+
+👀 彼岸花正在学习Python里 1+1 怎么等于二
